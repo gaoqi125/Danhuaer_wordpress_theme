@@ -1,0 +1,5 @@
+@charset "utf-8";
+.content-node, #comments.comment-page ol li.depth-1.comment-node {border: 1px solid #ccc !important;}
+#header .header-background {border-bottom: 1px solid #CCC!important;}
+#container.metrics-container {border:1px solid #CCC!important;}
+#footer {display:none;}
