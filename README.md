@@ -3,10 +3,14 @@
 
 模板预览：
 ------------------------
-(复制链接粘贴到地址栏查看图片)
+(点击链接查看图片)
+
 1. http://ww1.sinaimg.cn/mw690/7dad6376gw1dwlney1kktj.jpg
+
 2. http://ww4.sinaimg.cn/mw690/7dad6376gw1dwlnf0jejtj.jpg
+
 3. http://ww4.sinaimg.cn/mw690/7dad6376gw1dwlnf2346zj.jpg
+4. 
 
 模板说明：
 ------------------------
