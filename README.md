@@ -3,14 +3,12 @@
 
 模板预览：
 ------------------------
-(点击链接查看图片)
+<img src="http://ww1.sinaimg.cn/mw690/7dad6376gw1dwlney1kktj.jpg">
 
-1. http://ww1.sinaimg.cn/mw690/7dad6376gw1dwlney1kktj.jpg
+<img src="http://ww4.sinaimg.cn/mw690/7dad6376gw1dwlnf0jejtj.jpg">
 
-2. http://ww4.sinaimg.cn/mw690/7dad6376gw1dwlnf0jejtj.jpg
+<img src="http://ww4.sinaimg.cn/mw690/7dad6376gw1dwlnf2346zj.jpg">
 
-3. http://ww4.sinaimg.cn/mw690/7dad6376gw1dwlnf2346zj.jpg
-4. 
 
 模板说明：
 ------------------------
