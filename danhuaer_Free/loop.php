@@ -33,7 +33,7 @@
                 <div class="ts_post"><div class="ts_open ts_ie"><span class="ts_img ts_icon"></span><span class="ts_img ts_text"></span><span alt="转帖到新浪微博" data="s_<?php the_ID(); ?>" class="shareico share_sina"></span><span alt="转帖到腾讯微博" data="s_<?php the_ID(); ?>" class="shareico share_qq"></span><span alt="转帖到QQ空间" data="s_<?php the_ID(); ?>" class="shareico share_qzone"></span></div></div><!-- .ts_post -->
                 
                 <div class="posrel">
-				<a target="_blank" href="<?php the_permalink(); ?>" class="ajax ximg thepermalink"><?php the_post_thumbnail(array(192,auto), array( 'class' => 'dhpic','title' => get_the_title(),'alt' => get_the_title(),'date-enlarge' => p2_catch_that_image())); ?>
+				<a target="_blank" href="<?php the_permalink(); ?>" class="ajax ximg thepermalink"><?php the_post_thumbnail(array(192,20048), array( 'class' => 'dhpic','title' => get_the_title(),'alt' => get_the_title(),'date-enlarge' => p2_catch_that_image())); ?>
                </a>
                            
                               
